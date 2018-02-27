@@ -1,0 +1,9 @@
+POC application to use LDAP as autentication provider for Blackboard Collaborate.
+
+Add your LDAP and LTI data to the config.php file.
+
+In the application folder execute 'php -S localhost:8000'
+
+With the web browser access to http://localhost:8000/login.php
+
+Modify the code for your user's attributes and particular LDAP settings.
